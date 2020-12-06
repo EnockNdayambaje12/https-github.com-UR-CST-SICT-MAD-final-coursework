@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96610854906",
+    "project_id": "employee-app-c3fab",
+    "storage_bucket": "employee-app-c3fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96610854906:android:c6006453f46023d45d2643",
+        "android_client_info": {
+          "package_name": "com.company.Employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96610854906-fnl6d7k3pam3clmv9nt2jldl363c00q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqzRD4tmsrJY3d3mrqNObwg0RJM3INYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96610854906-fnl6d7k3pam3clmv9nt2jldl363c00q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
